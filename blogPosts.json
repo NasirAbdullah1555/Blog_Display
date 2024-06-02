@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "title": "Delicious Pasta Recipe",
+    "content": "Learn how to make the perfect pasta with this easy-to-follow recipe. Whether you're a beginner or a seasoned cook, you'll love this flavorful dish.",
+    "imageUrl": "https://th.bing.com/th/id/OIP.uXFwvnju7Y9d_rF9eovz2wAAAA?rs=1&pid=ImgDetMain.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Introduction to React Native",
+    "content": "Get started with React Native development and build mobile apps for iOS and Android. This comprehensive guide covers everything you need to know to kickstart your app development journey.",
+    "imageUrl": "https://th.bing.com/th/id/R.1619b59db38246fd558bbae904ccc89e?rik=Jkucy3uKbYBj1A&pid=ImgRaw&r=0.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Understanding Diabetes",
+    "content": "Discover the causes, symptoms, and treatments of diabetes. Whether you're living with diabetes or supporting someone who is, this article provides valuable insights and resources.",
+    "imageUrl": "https://th.bing.com/th/id/R.3fb32e539ecd1919a6d3861b712d51cc?rik=C6H3TSMO7lO1Tw&pid=ImgRaw&r=0.jpg"
+  },
+  {
+    "id": 4,
+    "title": "10 Tips for Productive Remote Work",
+    "content": "Remote work has become increasingly popular in recent years. Learn how to stay focused, motivated, and productive while working from home with these helpful tips and strategies.",
+    "imageUrl": "https://th.bing.com/th/id/OIP.Bq5ofGWuJYpZHCS7vC9JsAHaEK?rs=1&pid=ImgDetMain.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Healthy Smoothie Recipes",
+    "content": "Indulge in the delightful world of healthy smoothie recipes, where taste meets nutrition in every sip. From the invigorating Green Goddess Smoothie, blending spinach, banana, and pineapple for a refreshing kick, to the Berry Blast Smoothie, a medley of mixed berries, yogurt, and chia seeds bursting with fruity goodness, each recipe offers a tantalizing blend of flavors and essential nutrients. Transport yourself to a tropical oasis with the Tropical Paradise Smoothie, blending mango, pineapple, and coconut milk for a creamy and exotic treat. For a protein-packed punch, sip on the Protein-Packed Peanut Butter Smoothie, combining banana, peanut butter, Greek yogurt, and protein powder for a satisfying and energizing boost. And don't miss out on the creamy indulgence of the Avocado Spinach Smoothie, featuring avocado, spinach, cucumber, and coconut water for a nourishing and revitalizing experience. Whether you're starting your day right or seeking a midday pick-me-up, these smoothie recipes are the perfect way to fuel your body and tantalize your taste buds. Cheers to vibrant health and delicious blends!",
+    "imageUrl": "https://th.bing.com/th/id/OIP.XL5LGKXcm0wrxVd9zEMAGgHaGA?w=1137&h=922&rs=1&pid=ImgDetMain.jpg"
+  }
+]
